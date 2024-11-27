@@ -1,5 +1,6 @@
 <script>
-     import Todo from "./Todo.svelte"
+     import '../style.css';
+     import Todo from "./Todo.svelte";
 </script>
      
 <h1>
